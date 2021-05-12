@@ -4,7 +4,7 @@ from player import Player, Food
 import pickle
 
 
-server = "192.168.56.1"
+server = ""
 port = 5555
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
